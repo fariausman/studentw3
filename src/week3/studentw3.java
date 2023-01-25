@@ -43,6 +43,20 @@ public class studentw3
     public void setAge(int age) {
         this.age = age;
     }
+
+    /**
+     * @return the sid
+     */
+    public int getSid() {
+        return sid;
+    }
+
+    /**
+     * @param sid the sid to set
+     */
+    public void setSid(int sid) {
+        this.sid = sid;
+    }
     
 }
 
